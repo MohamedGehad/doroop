@@ -1,0 +1,20 @@
+* {
+  font-family: "Cairo", sans-serif !important;
+}
+.text-about {
+  margin-top: 24%;
+}
+.branshes {
+  color: #138e75;
+  padding: 10px 0;
+  font-weight: 700;
+}
+.text-cont {
+  margin-bottom: 50px;
+}
+.opening-table {
+  padding: 30px;
+  background-color: #fff;
+  border-radius: 4px;
+  border: 1px solid #eee;
+}
